@@ -1,0 +1,13 @@
+{
+  "name": "smart-solr-selector",
+  "version": "1.0.0",
+  "description": "Selects from the active solr nodes, manual loading preference is also supported",
+  "main": "index.js",
+  "repository": "https://github.com/rastermechanism/smart-solr-selector.git",
+  "author": "Rakesh Kumar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-zookeeper-client": "^1.1.3"
+  }
+}
